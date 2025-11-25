@@ -1,0 +1,32 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Practica7x64.vcxproj, Practica9x64.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  PFinal.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "PFinal.cpp")
+  
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "PFinal.cpp")
+  
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(347,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(491,39): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(491,57): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(495,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1006,3): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1005,8): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1005,3): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1082,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1085,20): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1169,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1171,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1228,27): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1229,28): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1235,27): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1236,28): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1245,27): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1246,28): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1252,27): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1253,28): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(1283,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(2669,27): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(2693,27): warning C4305: '+=': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  CGeiHC_PF.vcxproj -> C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\x64\Debug\CGeiHC_PF.exe

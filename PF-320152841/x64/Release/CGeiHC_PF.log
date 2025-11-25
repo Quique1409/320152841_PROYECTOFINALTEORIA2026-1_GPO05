@@ -1,0 +1,55 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (Practica7x64.vcxproj, Practica9x64.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Camera.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Camera.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Camera.cpp")
+  
+  DirectionalLight.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Light.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "DirectionalLight.cpp")
+  
+  Light.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Light.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Light.cpp")
+  
+  Material.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Material.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Material.cpp")
+  
+  Mesh_tn.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Mesh.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Mesh_tn.cpp")
+  
+  Model.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Model.h(4,9): error C1083: No se puede abrir el archivo incluir: 'assimp/Importer.hpp': No such file or directory
+  (compilando archivo de origen "Model.cpp")
+  
+  PFinal.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\PFinal.cpp(16,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  PointLight.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Light.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "PointLight.cpp")
+  
+  Shader_light.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Shader_light.h(7,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Shader_light.cpp")
+  
+  Skybox.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Skybox.h(6,9): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Skybox.cpp")
+  
+  Sphere.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\definition.h(11,10): error C1083: No se puede abrir el archivo incluir: 'glm.hpp': No such file or directory
+  (compilando archivo de origen "Sphere.cpp")
+  
+  SpotLight.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Light.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "SpotLight.cpp")
+  
+  Texture.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Texture.h(2,9): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Texture.cpp")
+  
+  Window.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\CGeiHC_PF\CGeiHC_PF\Window.h(3,9): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Window.cpp")
+  

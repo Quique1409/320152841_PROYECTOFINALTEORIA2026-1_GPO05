@@ -1,0 +1,96 @@
+# Blender 4.5.3 LTS MTL File: 'plants.blend'
+# www.blender.org
+
+newmtl Black_flower_pot
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.011612 0.011612 0.011612
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Corn_plant
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../../Textures/Corn plant COL.png
+map_Ns ../../../../../Textures/Corn plant R.png
+map_Bump -bm 1.000000 ../../../../../Textures/Corn plant N.png
+
+newmtl Flower_pot_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../../Textures/Flower pot1 COL.png
+map_Ns ../../../../../Textures/Flower pot1 R.png
+map_Bump -bm 1.000000 ../../../../../Textures/Flower pot1 N.png
+
+newmtl Hoja
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Textures/maceta.jpg
+
+newmtl Leaves
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../../Textures/Leaves COL.png
+map_Ns ../../../../../Textures/Leaves R.png
+map_Bump -bm 1.000000 ../../../../../Textures/Leaves N.png
+
+newmtl MAceta
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Textures/maceta.jpg
+
+newmtl Soil2
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../../../../../Textures/Soil2 COL.png
+map_Ns ../../../../../Textures/Soil2 R.png
+map_Bump -bm 1.000000 ../../../../../Textures/Soil2 N.png
+
+newmtl Tallo
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Textures/tallo.jpg
+
+newmtl Tierra
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Textures/tierra.jpg

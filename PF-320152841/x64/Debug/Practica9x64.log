@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Practica7x64.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  P09-320152841.cpp
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P09-320152841.cpp")
+  
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P09-320152841.cpp")
+  
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\P09-320152841.cpp(158,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\P09-320152841.cpp(439,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\P09-320152841.cpp(442,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\P09-320152841.cpp(718,27): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\P09-320152841.cpp(752,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\P09-320152841.cpp(830,21): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\Practica9x64\P09-320152841.cpp(850,27): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Practica9x64.vcxproj -> C:\Users\enriq\OneDrive\Documentos\UNAM\Compu grafica\Practica9x64\x64\Debug\Practica9x64.exe

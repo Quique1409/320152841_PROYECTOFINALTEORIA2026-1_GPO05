@@ -1,0 +1,11 @@
+﻿  E08-320152841.cpp
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\LabCGeiHC\Practica7x64\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E08-320152841.cpp")
+  
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\LabCGeiHC\Practica7x64\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E08-320152841.cpp")
+  
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\LabCGeiHC\Practica7x64\E08-320152841.cpp(133,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\LabCGeiHC\Practica7x64\E08-320152841.cpp(478,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\LabCGeiHC\Practica7x64\E08-320152841.cpp(480,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica7x64.vcxproj -> C:\Users\enriq\Documents\UNAM\7mo semestre\Compu grafica\Proyectos\LabCGeiHC\x64\Debug\Practica7x64.exe
